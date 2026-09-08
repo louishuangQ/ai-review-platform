@@ -1,0 +1,7 @@
+node_modules/
+dist/
+package-lock.json
+# Retain unused historical baseline without rewriting it.
+src/styles.css
+src/mocks/platform.ts
+src/types.ts

@@ -1,0 +1,24 @@
+node_modules/
+.npm-cache/
+dist/
+.env
+playwright-report/
+test-results/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+# Local credentials and generated runtime data (never commit).
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.db
+*.sqlite
+*.sqlite3
+.playwright-cli/
+.mypy_cache/
+.ruff_cache/
